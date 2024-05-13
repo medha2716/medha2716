@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
+
 
 
 <div style="color: #cceeff ;" >
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
+
 
 
 
@@ -98,11 +98,10 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
 
 <a href="https://www.linkedin.com/in/medha-prasad-259818254/" target="_blank"><img align="center" src="linked-in-alt.svg" alt="medha-praasd" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/vinitzz._/" target="_blank"><img align="center" src="instagram.svg" alt="medha_2705" height="30" width="40" /></a>
+<a href="https://www.instagram.com/medha_2705/" target="_blank"><img align="center" src="instagram.svg" alt="medha_2705" height="30" width="40" /></a>
 &nbsp;
 
 ---

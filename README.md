@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👩‍🎓 Pronouns: She/Her
 
-- I am a **second-year CSE student** at the International Institute of Information Technology, Hyderabad.
+- I am a **third-year CSE student** at the International Institute of Information Technology, Hyderabad.
 - I'm passionate about coding and building cool projects ⚡. Let's collaborate and create some awesome software together! 🚀
 
 - 📬 How to reach me: [medha27prasad@gmail.com](mailto:medha27prasad@gmail.com)
